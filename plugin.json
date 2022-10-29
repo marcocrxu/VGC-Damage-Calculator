@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"logo": "image_res/133.png",
+	"features": [
+		{
+		  "code": "pokemon",
+		  "explain": "pokemon damage caculator",
+			"cmds":["pokemon"]
+		}
+	]
+}
