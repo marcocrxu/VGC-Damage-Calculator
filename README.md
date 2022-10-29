@@ -3,6 +3,8 @@ Originally the official Nuggetbridge damage calculator 2015-2016, adapted for Tr
 
 If there are inaccuracies please submit an issue or pull request!
 
+Since this repository is used for utools, a Plugin application that has a smaller window size, I remove some statements on web page.
+
 Credits and license
 -------------------
 
